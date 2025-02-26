@@ -6,5 +6,5 @@ The first ISO release is planned for before  August 12. If it’s not available 
 
 Stay tuned for updates! 🚀  
 
-#How to build
+# How to build
 Tbh idk uhh good luck!!!!
